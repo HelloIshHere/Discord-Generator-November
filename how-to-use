@@ -1,0 +1,43 @@
+#thanks for purchasing this tool , this is guide to setup the tool.
+
+
+1. Install required modules.
+open cmd (command prompt) and type and enter for each of these
+pip3 install discum
+pip3 install httpx
+pip3 install httpx[http2]
+pip3 install imap_tools
+pip3 install urlextract
+pip3 install anticaptchaofficial
+
+2.open config.json
+
+proxy - enter your rotating proxys format is username:password@ip:port or ip:port
+
+username - any specific username for accs or use random put "random" if you want the tool to use random usernames
+
+password - same like username
+
+addavatar - add avatar to accs or not put "yes" or "no"
+
+captcha-service - which captcha service to use - "deathbycaptcha" or "anticaptcha"
+
+phone-service - which phone service to use to verify accs - "smsactivate" or "fivesim"
+
+method - method to use multiprocessing or threads - "pro" for multiprocess and "thread" for threads
+
+keeprunning - keep running in loop or no - "yes" or "no"
+
+domain - your custom domain.
+
+gmail - your gmail account - "example@gmail.com"
+
+gmail-pass your gmail passwordd
+
+make sure your gmail account has imap and pop enabled & insecure access turned on from manage your acount - settings
+make sure you domain is redirecting emails to your gmail account.
+
+After setting up all this you are ready to use.
+
+
+

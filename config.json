@@ -1,0 +1,20 @@
+{
+  "proxy": "",
+  "username": "random",
+  "password": "random",
+  "addavatar": "true",
+  "captcha-service": "anticaptcha",
+  "anticaptcha-apikey": "",
+  "deathbycaptcha-apikey": "",
+  "phone-service": "smsactivate",
+  "sms-activate-apikey": "",
+  "fivesim-apikey": "",
+  "sms-activate-country": "69",
+  "sms-activate-operator": "any",
+  "fivesim-country": "turkey",
+  "fivesim-operator": "any",
+  "saveformat": "email:pass:token",
+  "method": "thread",
+  "keeprunning": "yes",
+  "domain": ".com"
+}
